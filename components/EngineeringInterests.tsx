@@ -72,7 +72,7 @@ export default function EngineeringInterests() {
     ];
 
     return (
-        <section id="engineering" className="bg-slate-950 text-white py-24 px-6"> 
+        <section id="engineering-interests" className="bg-slate-950 text-white py-24 px-6"> 
             <div className="max-w-6xl mx-auto">
                 <h2 className="text-5xl font-bold mb-4"> Engineering Interests </h2>
 

@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Hero() {
   return (
-    <section className="min-h-screen flex items-center justify-center bg-slate-950 text-white">
+    <section id="hero" className="min-h-screen flex items-center justify-center bg-slate-950 text-white">
       <div className="max-w-4xl w-full px-6">
 
         <div className="bg-slate-900 rounded-xl overflow-hidden shadow-2xl border border-slate-800">
