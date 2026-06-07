@@ -10,6 +10,7 @@ export default function Skills() {
         "Sidekiq",
         "REST APIs",
         "C++",
+        "Redis",
         "Java"
       ],
     },
@@ -39,22 +40,20 @@ export default function Skills() {
       ],
     },
     {
-      title: "Tools",
+      title: "DevOps & Tools",
       skills: [
         "Git",
         "GitHub",
         "Linux",
         "Docker",
         "VS Code",
+        "DigitalOcean"
       ],
     },
   ];
 
   return (
-    <section
-      id="skills"
-      className="bg-slate-950 text-white py-24 px-6"
-    >
+    <section id="skills" className="bg-slate-950 text-white py-24 px-6">
       <div className="max-w-6xl mx-auto">
         <h2 className="text-5xl font-bold mb-4">
           Skills
