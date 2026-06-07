@@ -41,7 +41,7 @@ export default function Hero() {
                 <li>• System Design</li>
                 <li>• Data Structures & Algorithms</li>
                 <li>• Japanese Language</li>
-                <li>• Flutter Development</li>
+                <li>• Artifical Intelligence / Machine Learning</li>
               </ul>
             </div>
           </div>

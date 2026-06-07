@@ -22,6 +22,7 @@ export default function Skills() {
         "Flutter",
         "HTML",
         "CSS",
+        "jQuery"
       ],
     },
     {
