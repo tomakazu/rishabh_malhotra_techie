@@ -7,16 +7,14 @@ export default function About() {
         </h2>
 
         <p className="text-lg">
-          I am a Software Engineer with 4+ years of
-          experience building robust, scaleable applications
-          using Ruby on Rails. I have experience in mainly working
-          in startups. For more than 3.5 plus years, I have worked in
-          healthtech startups. Currently, working in fintech startup
-          called OneNdf.
-        </p>
-        <p className="text-lg">
-          My interests extend beyond software development into
-          algorithms, system design, linguistics, sports and language learning. 
+        I am a Software Engineer with 4+ years of experience building scalable,
+        production-grade applications using Ruby on Rails. My background spans
+        high-growth startup environments, including more than 3.5 years in
+        healthtech. Today, as a founding backend engineer at a fintech startup,
+        I play a key role in building and scaling the company's core platform,
+        owning backend architecture, infrastructure, deployment pipelines, and
+        operational reliability while helping establish the engineering foundation
+        for future growth.
         </p>
       </div>
     </section>
