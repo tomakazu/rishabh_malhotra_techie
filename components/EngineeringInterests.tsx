@@ -60,7 +60,7 @@ export default function EngineeringInterests() {
         },
         {
         name: "Hackerrank",
-        description: "Practicing DSA, Python and SQL",
+        description: "Solved numerous DSA, Python and SQL questions",
         link: "https://www.hackerrank.com/profile/matcortnermat",
         },
         {
