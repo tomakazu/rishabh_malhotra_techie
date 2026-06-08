@@ -3,7 +3,7 @@ export default function Navbar() {
     { name: "About", href: "#about" },
     { name: "Skills", href: "#skills" },
     { name: "Experience", href: "#experience" },
-    { name: "Engineering", href: "#engineering" },
+    { name: "Engineering Interests", href: "#engineering-interests" },
     { name: "Beyond Code", href: "#beyond-code" },
     { name: "Contact", href: "#contact" },
   ];
