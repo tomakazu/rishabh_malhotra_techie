@@ -72,7 +72,7 @@ export default function BeyondCode() {
                 Outside of software engineering, I enjoy solving chess
                 positions, tackling Sudoku puzzles, following current
                 affairs, learning Japanese and German (not specifically these two),
-                taying active through fitness and badminton, and keeping up with
+                staying active through fitness and badminton, and keeping up with
                 football. As an Arsenal supporter, I have also developed
                 a remarkable tolerance for disappointment &#x1F61B;.
               </p>
